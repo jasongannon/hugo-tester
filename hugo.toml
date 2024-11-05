@@ -1,3 +1,14 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+name = "Personal Website of Jason Gannon"
+license = "MIT"
+licenselink = ""
+description = "Personal Website of Jason Gannon"
+homepage = "https://jasongannon.me"
+tags = ["blog", "portfolio", "personal", "technical", "minimalist"]
+features = ["disqus", "responsive", "google analytics"]
+min_version = "0.90.0"
+theme = "hugo-theme-console"
+
+[author]
+  name = "Jason Gannon"
+  homepage = "https://jasongannon.me"
+  github = "https://github.com/jasongannon"
